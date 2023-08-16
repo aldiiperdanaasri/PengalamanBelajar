@@ -6,3 +6,6 @@ Belajar kelas memulai dengan "Memulai Dasar Pemrograman untuk Menjadi Pengembang
 
 **16 Agustus 2023**  
 Belajar kelas memulai dengan "Pengenalan ke Logika Pemrograman (Programming Logic 101)" (Progress 100%)
+
+**17 Agustus 2023**  
+Belajar kelas memulai dengan "Belajar Dasar Git dengan GitHub" (Progress 20%)
